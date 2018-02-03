@@ -21,7 +21,7 @@ getUserImage()
     })
 ```
 
-### [Demo](https://repl.it/Jw7L/5)
+### [Demo](https://repl.it/@iguatemicanfield/get-user-image)
 
 ### Example
 
