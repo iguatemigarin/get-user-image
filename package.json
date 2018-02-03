@@ -1,0 +1,16 @@
+{
+  "name": "get-user-image",
+  "version": "1.0.0",
+  "description": "Request an image in the browser",
+  "main": "index.js",
+  "keywords": [
+    "image",
+    "photo",
+    "bowser"
+  ],
+  "author": "Iguatemi Garin <iguatemi@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "image-file-to-base64-exif": "^1.0.0"
+  }
+}
